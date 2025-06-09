@@ -1,0 +1,357 @@
+Chatbot de révision : Transfusion sanguine (UE 4.4 S4)
+Bienvenue ! Ce chatbot t’aide à réviser les notions clés pour réussir ton évaluation pratique du 12 juin 2025.
+
+Avant de commencer, je te propose ce test de positionnement (merci de le réaliser qu’une seule fois) afin de situer tes connaissances et savoir où tu en es dans tes révisions. 
+Tu es prêt pour la révision ? 
+Tu peux maintenant débuter ton expérience en explorant ces 6 grandes thématiques en lien avec ton évaluation pratique du 12 juin 2025
+1. Composition du sang et produits sanguins labiles (PSL)
+2. Groupes sanguins et compatibilité
+3. Procédure transfusionnelle
+4. Contrôle ultime et carte de compatibilité
+5. Rôle infirmier et traçabilité
+6. Complications transfusionnelles
+
+Pour être incollable en UE 4.4 S4 Transfusion sanguine
+        Je me prépare pour le jour J
+        Quiz d’entraînement final
+
+
+Clique sur un thème pour commencer.
+
+PSL
+Définition: la transfusion
+La transfusion dite « sanguine » consiste à administrer :
+* par voie intraveineuse,
+* un des composants du sang, appelé Produit Sanguin Labile (PSL),
+* très souvent un concentré de globules rouges, parfois du plasma ou un concentré de plaquettes,
+* d’un ou plusieurs sujets sains (donneurs)
+* à un ou plusieurs sujets malades (receveurs).
+Les PSL sont produits par l’Établissement Français du Sang (EFS).
+?? Les antigènes du donneur peuvent induire une réponse immunitaire avec synthèse d’anticorps par le receveur.
+Cela peut provoquer un conflit antigène / anticorps.
+ Composition du sang
+Le sang est composé de deux grandes parties :
+* Le sang est composé de cellules sanguines (45 %) :
+o Globules rouges (hématies) : transportent l’oxygène (O?) et le dioxyde de carbone (CO?) grâce à l’hémoglobine.
+o Globules blancs (leucocytes) : participent à la défense immunitaire.
+o Plaquettes (thrombocytes) : indispensables à la coagulation sanguine.
+Ces cellules baignent dans le plasma composé : facteurs coagulation, protéines, eau, immunoglobulines, hormones, lipides….
+
+
+ Produits Sanguins Labiles (PSL)
+Les PSL sont des composants du sang, séparés après un don de sang total ou par aphérèse. Ils ne se conservent que quelques jours et sont donc régulièrement renouvelés.
+CGR – Concentré de Globules Rouges
+* Indication : traitement de l’anémie aiguë ou chronique.
+* Ne contient que les hématies.
+* Conservation : entre 2 et 6°C.
+ PFC – Plasma Frais Congelé
+* Indication : troubles de la coagulation, hémorragies.
+* Riche en facteurs de coagulation.
+* Délivré après décongélation, à transfuser le plus rapidement possible à réception.
+ CP – Concentré Plaquettaire
+* Indication : thrombopénies sévères (ex : leucémies).
+* Contient une quantité importante de plaquettes.
+* Conservation : conservation à 22° sous agitation douce à transfuser le plus rapidement possible à réception.
+La transfusion de tout PSL débute au plus tard dans les six heures qui suivent sa réception dans le service de soins, dans les limites de sa péremption 
+ Dons de sang : rappels réglementaires
+* Volontaire, bénévole, anonyme, non rémunéré (Loi du 4 janvier 1993).
+* Encadré par l’EFS (Établissement Français du Sang).
+* Contrôle strict des conditions de collecte, transport, de préparation transformation et conservation.
+Types de dons :
+* Sang total : prélèvement global puis séparation. 
+* Aphérèse : prélèvement d’un composant précis (plaquettes, plasma).
+Conditions pour donner :
+* Âge : 18 à 70 ans
+* Poids : ? 50 kg
+* Fréquence : max 6x/an pour les hommes, 4x/an pour les femmes
+Aucun produit de substitution n’existe à ce jour pour remplacer totalement le sang humain.
+Groupes
+Systèmes de groupes sanguins
+Les groupes sanguins sont déterminés génétiquement. Ils dépendent de la présence ou non de certains antigènes à la surface des globules rouges (GR).
+?? Système ABO :
+* Les antigènes du système ABO sont des structures moléculaires capables d’induire une réponse immunitaire 
+* Les antigènes A et B sont présents à la surface des hématies.
+* Les anticorps correspondants (anti-A, anti-B) sont des immunoglobulines qui reconnaissent spécifiquement un Antigène et sont naturellement présents dans le plasma contre les antigènes absents. 
+ Loi de Landsteiner : « On possède dans son plasma les anticorps dirigés contre les antigènes absents de ses globules rouges. »
+
+?? Système Rhésus (RH) :D C E c e: 
+* 5 antigènes principaux : D C E c e
+* Antigène D = Rh positif
+* Absence d’antigène D = Rh négatif
+* Les anticorps anti-D apparaissent après une immunisation (transfusion, grossesse…)
+?? Système KELL :
+* Un antigène principal : KEL1(kell)
+* L’antigène KEL1 est très immunogène donc à tester systématiquement lors du phénotypage érythrocytaire (phénotype RH KEL1)
+* Les anticorps du système KEL sont des anticorps immuns qui peuvent donner lieu à des accidents hémolytiques 
+
+Ces antigènes sont très immunogènes et sont Responsables de la majorité des immunisations = apparition d’Anticorps irréguliers après grossesse ou transfusion notamment
+Le « phénotypage » consiste à rechercher sur les globules rouges d’un individu, la présence d’antigènes autre que les Antigènes A et B
+Les groupes ABO et RH-KELL 1 sont les plus importants à vérifier avant transfusion.
+Compatibilité transfusionnelle
+Transfusion de CGR (globules rouges) :
+* Ne pas apporter par les hématies transfusées un antigène absent chez le receveur (pour éviter par ces transfusions que le receveur ne s’immunise) 
+* Ne pas apporter par les hématies transfusées un antigène correspondant à un anticorps présent dans le plasma du receveur (pour éviter une réaction transfusionnelle liée à un conflit Antigène-Anticorps) 
+* Exemple : Un patient O a des anticorps anti-A et anti-B ? ne peut recevoir que du sang O.
+
+
+Transfusion de plasma:
+
+* C’est l’inverse ! Le donneur ne doit pas apporter d’anticorps contre les antigènes du receveur.
+ReceveurPeut recevoir du plasma deOABAA, ABBB, ABABABCas cliniques – Lecture de compatibilité 
+Exemples :
+
+Un patient du groupe A Rh? reçoit une poche CGR AB Rh+. Que risque-t-il ?
+* Il va recevoir des antigènes A et B alors qu’il ne possède pas l’antigène B, mais possède un anticorps anti-B dans son plasma donc réaction immunitaire possible (enlever le mot possible car il y a un accident ABO) ? Contre-indication absolue => ACCIDENT ABO
+* De plus il peut développer un Anticorps anti D car le patient est RH- et le CGR RH+
+Un patient du groupe B Rh+ reçoit une poche CGR O Rh-. Que risque-t-il ?
+* Le patient possède l’antigène B et ne possède pas l’antigène A. La poche CGR O Rh- qu’il va recevoir ne contient aucun antigène, donc aucune réaction immunitaire possible ? NON ISOGROUPE COMPATIBLE Groupe sanguin différent entre le donneur et le receveur => Transfusion possible 
+De plus le CGR est RH- est le patient RH+, donc pas de risque que le patient s’immunise 
+Procedure
+Étapes de la procédure transfusionnelle 
+La procédure transfusionnelle suit des étapes clés selon les recommandations nationales :
+ Examens pré-transfusionnels
+* Double détermination du groupe ABO + RH + KELL sur 2 prélèvements distincts.
+* RAI (Recherche d’anticorps irréguliers) : valide 72 h (ou 21 j sur prescription médicale si les conditions sont remplies).
+* Objectif : vérifier la compatibilité entre le patient et le produit transfusé.
+ Prescription médicale et information du patient
+* Le patient doit être informé oralement par le médecin, cette information s’accompagne d’un document explicatif. Cette information doit être tracée ainsi que l’accord, le refus ou l’impossibilité d’informer le patient 
+* Un consentement éclairé du patient est recueilli, sauf urgence vitale
+* Prescription par un médecin, mentionnant : type/quantité de PSL, urgence, données patient, etc.
+* Identification de l’ES et du service de soin demandeur 
+* Identification et signature du médecin prescripteur : nom / signature 
+* Identification du patient 
+* Type et quantité de PSL 
+* Date de la prescription
+* Date et heure souhaitées de délivrance des PSL
+* Degré d’urgence transfusionnelle s’il y a lieu  
+* LA PM MENTIONNE CES ELEMENTS
+
+
+ Réception des PSL
+CONTROLE DE : 
+* Conditions de transport : hygiène, température et durée
+*  Bonne unité de destination ? Bon patient ?
+*  Identité : Prescription + FD + Groupe sanguin + RAI
+*  Groupe et phénotype : Groupe sanguin + PSL + FD
+*  Qualification des PSL : Prescription et FD
+*  Qualité des produits : Intégrité, date limite d’utilisation
+*  Nombre de poches : Prescription et FD
+*  Code barre : PSL et FD
+*  Noter : date et heure de réception
+*  S’identifier et noter la conformité du contrôle à réception (en présence du transporteur) 
+Les conformités doivent être vérifiées par un professionnel formé (infirmier ou médecin OU SAGE FEMME)
+ Réalisation de la transfusion
+ Elle repose sur les 3 unités : 
+* Unité de lieu : tout se déroule au même endroit en présence du patient. Contrôle ultime pré-transfusionnel au lit du patient.
+* Unité de temps : Toutes les étapes sont effectuées successivement juste avant la pose du PSL, sans interruption. Contrôle simultané de l’identification du patient et celle du PSL.
+* Unité d’action : réalisation de l’ensemble des contrôles et la pose de la transfusion par la même personne sans interruption de tâche 
+Avant la pose :  
+* Vérification de l’identité 
+* Vérification de l’information du patient par le prescripteur (+ document d’information remis au patient)
+* Demande du consentement du patient de réaliser l’acte transfusionnel 
+* Préparation du matériel (PSL, perfuseur à filtre, la carte de contrôle ultime de compatibilité ABO pour chaque CGR, Matériels de contrôle des paramètres cliniques, Gants UU nitrile, poubelle, boite DASRI...)
+* Documents à disposition : prescription, fiche de délivrance, résultats RAI, document de groupe sanguin, dossier transfusionnel 
+* Vérification de la présence médicale immédiate et du chariot d’urgence
+* Vérification de la voie veineuse fonctionnelle
+* Vérification de la prescription du débit ou durée de la transfusion par le prescripteur
+* Mesure des paramètres vitaux : pouls/TA/température/SP02, tracer les surveillances  
+
+Pendant la pose :
+* Utilisation d’un perfuseur avec filtre
+* Ne jamais injecter de médicament sur la même voie
+* Surveillance continue du patient les 15 premières minutes, puis toutes les 30 min et plus selon l’état clinique du patient 
+* Durée : max 3 h par CGR, souvent 1h–1h30
+Carte
+Contrôle pré transfusionnel se fait En présence du patient/ Effectué par la même personne / Pour chaque PSL transfusé  
+Il comprend : 
+
+Il comprend2 étapes : 
+1/Le contrôle ultime de concordance des documents pour tous PSL : vérification de la concordance de l'identité du patient sur les documents pour tous les PSL + groupe sanguin et phénotype + code barre du PSL 
+- 
+2/contrôle ultime de compatibilité ABO (Pour les CGR) : réalisé à l'aide du dispositif de contrôle ultime de compatibilité 
+
+1/ Contrôle de concordances de documents : 
+* Vérification de l’identité du patient (question ouverte, demander de faire épeler : nom d’usage si nécessaire, de naissance, prénom, date de naissance, sexe) en vérifiant l’exactitude de l’orthographe et la concordance avec l’étiquette/les documents transfusionnels. Si ce n’est pas possible, confrontation de plusieurs sources d’information)
+? Concordance de l’identité du receveur sur la Prescription médicale (PM)/Fiche de délivrance (FD)/ Document de groupe sanguin/ résultat RAI (pour les CGR)
+? Concordance des phénotypes érythrocytaires : ABO RH1 (obligatoire) / RH KEL1 : Document de groupe sanguin/ FD/étiquette du PSL (vérifier toutes les concordances) 
+? Concordance des données d’identification du PSL à transfuser : type de PSL, qualification conforme à la PM (PSL conforme à la PM)
+? PM/ étiquette du PSL/ fiche de délivrance
+? N° à 11 chiffres du PSL identique à la FD 
+? Date + heure de péremption du PSL
+? Date de validité des RAI :  résultat de la RAI (pour les CGR)
+? Vérification de l’aspect, intégrité et T° PSL 
+? Conformité du protocole transfusionnel du patient 
+
+
+2/ Contrôle ultime de compatibilité ABO (Contrôle Ultime Pré-transfusionnel (CUPT) : 
+ Mode d’emploi
+Le contrôle ultime de compatibilité au lit du patient est une étape essentielle, obligatoire avant toute transfusion de CGR. Il permet d’assurer la concordance entre le CGR et le groupe du patient. Il s’agit d’un test rapide à l’aide d’une carte de compatibilité, qui s’effectue au lit du patient, juste avant la transfusion
+ Objectifs
+* Vérifier l’identité du patient (bracelet, dossier, fiche de délivrance)
+* Confirmer la compatibilité ABO entre le CGR et le patient
+* Éviter toute erreur d’attribution ou de groupage
+Matériel nécessaire
+* Carte de contrôle ultime ABO (à usage unique)
+* Solution WS (wash solution)
+* Sang du patient (à prélevé)
+* Sang du CGR (homogénéisation de la tubulure)
+* Gants, montre, stylos, étiquette d’identification
+Étapes de réalisation du test AB test card (obligatoires) 
+Vérifier la date de préemption et l’intégrité du kit 
+1. Noter le nom du patient, n° du CGR, date, heure, signature (à enlever mis à la fin°
+2. Hydrater : dépôt d’une grosse goutte de la solution WS dans les 4 puits (les pastilles doivent virer au vert) 
+3. Dépôt de sang patient/receveur sur les zones réactives (dans les puits bleu et jaune patient)
+4. Dépôt d’une goutte de sang du CGR dans chaque zone réactive (dans les puits bleu et jaune CGR de la carte)
+5. Vérifier le dépôt sur chaque puits
+6. Cocher la case « Contrôle Dépôt de sang »
+7. Recouvrir totalement les zones réactives des 4 puits avec la solution WS (Remplir entièrement chaque puits avec la solution verte WS)(ne pas laver les puits plus de 2 fois)
+8. Lecture immédiate après absorption complète de la solution
+9. Inscription du résultat sur l’étiquette
+10. Renseignements des items : nom, date, heure, signature
+ Lecture
+* Le point rouge traduit la présence de l’antigène correspondant (réaction positive)
+* Une absence de réaction positive ou couleur verte ou translucide traduit une absence de l’antigène correspondant (réaction négative)
+* Exemple : si réaction positive dans le puits avec anti-A, le sang contient l’Ag A.
+* Retenir : Une réaction positive coté CGR et négative coté patient pour la même couleur de réactif INTERDIT la transfusion 
+Interprétation : 
+* ISOGROUPE : même groupe ABO pour le donneur et le receveur
+* NON ISOGROUPE COMPATIBLE : avis médical selon E.S (Groupe sanguin différent entre le donneur et le receveur et pouvant être transfusé). 
+Exemple : CGR de groupe O transfusé à un patient de groupe A
+* INCOMPATIBLE : groupe sanguin différent entre le donneur et le receveur mais ne pouvant pas être transfusé= Accident ABO
+Exemple : CGR de groupe A transfusé à un patient de groupe B
+Pour que la transfusion soit autorisée, il ne doit pas y avoir d’incompatibilité entre les antigènes du CGR et les anticorps du patient !
+
+Ne pas apporter par les hématies transfusées un antigène correspondant à un anticorps présent dans le plasma du receveur (pour éviter une réaction transfusionnelle liée à un conflit Antigène-Anticorps)
+
+Exemple d’incompatibilité éliminatoire :
+Pas de réaction positive côté patient, mais réaction positive côté poche = on apporte un antigène que le patient ne possède pas mais pour lequel il possède l’anticorps correspondant 
+  ? transfusion interdite 
+
+Traçabilité et fin de transfusion 
+Traçabilité de la fiche de délivrance dès le début de l’administration des PSL :  La vignette d’identification du PSL (à détachée et collée sur la Fiche de délivrance.
+Confirmer la réalisation des 2 temps du contrôle ultime pré-transfusionnel en présence du malade rappeler sur la fiche de délivrance :
+- Contrôle ultime de concordance des documents
+- Contrôle ultime de compatibilité ABO (CGR)
+* L’heure et la date de transfusion est renseigné pour chaque PSL 
+* Visa du soignant renseigné (nom, prénom, fonction)
+* En cas d’effets indésirables le noter sur la fiche de délivrance 
+* Traçabilité du dossier transfusinnel 
+* GARDER : les poches vides + tubulures + cartes de contrôle pré transfusionnel au moins 4 heures après la fin de la dernière transfusion
+* Remise au patient d’un document post-transfusion (type et nombre de PSL)
+* Prescription d’une RAI post-transfusionnelle à réaliser 1 à 3 mois après
+Rappel : items éliminatoires 
+Les étapes suivantes sont obligatoires, sinon 0/20 :
+* Vérification de l’identité du patient * Vérification de l’identité patient sur :  prescription médicale/fiche de délivrance/document de groupe sanguin/RAI* Vérification du groupage sanguin sur : document de groupe sanguin/fiche de délivrance/CGR* Vérification du code barre sur : fiche de délivrance/CGR* Vérification de la date de péremption et intégrité du CGR* Vérification de la durée de validité des anticorps anti-érythrocytaires (RAI) 
+* Contrôle de la date de péremption de la carte transfusionnelle et intégrité du kit
+* Dépôt d’une grosse goutte de la solution WS dans les 4 puits 
+* Dépôt de sang patient/receveur sur les zones réactives 
+* Dépôt d’une goutte de sang du CGR dans chaque zone réactive
+* Cocher la case « contrôle dépôt de sang »
+* Recouvrir totalement les zones réactives des 4 puits avec la solution WS
+* Lecture et interprétation
+* Inscription du résultat sur l’étiquette
+* Mauvaise identification
+* Mauvaise lecture et interpretation de la carte
+* Transfusion sans CUP
+* Ne pas comprendre qu’une réaction positive coté CGR et négative coté patient pour la même couleur de réactif interdit la transfusion) 
+* Une conclusion de décision transfusionnelle erronée Rôle
+ Rôle infirmier dans la transfusion
+Le rôle infirmier est central dans la sécurisation de l’acte transfusionnel. L’infirmier(e) est responsable de :
+ La préparation de l’environnement
+* Vérification de la disponibilité du chariot d’urgence
+* Présence d’un médecin immédiatement joignable
+* Matériel prêt : perfuseur, scope, montre, carte ABO, PSL, solution WS, équipements de protection
+La vérification administrative
+* Concordance entre prescription, compte rendu de résultats de phénotypage érythrocytaire, RAI, fiche de délivrance, et produit reçu
+* Vérification de l’identité du patient : bracelet, documents, fiche de délivrance Au chevet du patient et avec le patient (si ce n’est pas possible, confrontation de plusieurs sources d’information)
+Important Demander au patient d’épeler son nom de naissance, son nom d’usage, son prénom, sa date de naissance, son sexe, en vérifiant l’exactitude de l’orthographe et la concordance avec l’étiquette/les documents transfusionnels 
+* Vérification des dates de péremption et de l’intégrité du CGR
+La surveillance du patient
+* Informer le patient du déroulement, des effets indésirables possibles
+* Surveillance continue pendant les 15 premières minutes au lit du patient :
+o Tension artérielle (TA)
+o Pouls
+o Température
+o SpO?
+* Puis surveillance toutes les 30 minutes et jusqu’à 2 heures après la transfusion 
+* Surveillance des paramètres vitaux à T0, T5, T10 et T15 mn, puis toutes les 30mn, et plus souvent selon l’état clinique
+La réalisation du soin
+* Pose avec perfuseur à filtre
+* Aucun autre produit ne doit être injecté sur la même ligne
+* Respect du débit prescrit (ex. : 1 ml = 15 gouttes)
+* Mise à disposition de la sonnette du patient + informer le patient qu’il signale tous effets indésirables
+* Arrêt de la transfusion si signes cliniques anormaux ? appel médical immédiat
+ La traçabilité
+* Remplir la fiche de délivrance : date, heure, identifiant CGR, identité, signature
+* Remise au patient du document post-transfusion (nombre de PSL reçus)
+* Prescription d’une RAI de contrôle entre 1 et 3 mois après
+Tous les documents doivent être archivés dans le dossier patient ou saisi dans le dossier transfusionnel informatisé.
+
+Complications
+Complications transfusionnelles : à repérer et signaler rapidement
+Une complication transfusionnelle est une réaction indésirable survenant pendant ou après la transfusion. Elle peut être immunologique ou non immunologique, parfois grave, voire vitale.
+Les signes d’alerte à connaître
+1. Fièvre et frissons ? réaction fébrile ou hémolytique
+2. Douleurs lombaires ou thoraciques ? suspicion d’hémolyse aiguë
+3. Hypotension ou hypertension ? réaction allergique ou surcharge volémique
+4. Tachycardie et dyspnée ? signe de choc ou d’œdème pulmonaire
+5. Urines foncées (hémoglobinurie), ictère ? hémolyse sévère
+6. Éruption cutanée, prurit, œdème facial ? réaction allergique (?? œdème de Quincke)
+7. Saignements inhabituels ? possible CIVD (Coagulation Intra-Vasculaire Disséminée)
+
+Conduite à tenir en cas d’accident transfusionnel
+1. Arrêter immédiatement la transfusion
+2. Conserver la poche et la tubulure (elles peuvent être analysées)
+3. Prévenir le médecin immédiatement
+4. Surveiller les constantes vitales du patient
+5. Déclarer l’incident dans les 8h (traçabilité obligatoire)
+ L’analyse post-transfusionnelle permettra de rechercher l’origine : erreur d’attribution, anticorps, contamination bactérienne, etc.
+Tout soignant doit être capable d’identifier et réagir sans délai à ces signes, même si la transfusion a débuté depuis plusieurs minutes ou est terminée.
+Évaluation
+Je me prépare pour le jour J (version enrichie depuis le support de cours)
+ Objectifs de révision
+Les compétences attendues à l’évaluation découlent directement des connaissances suivantes :
+* Comprendre les enjeux de l’hémovigilance et de la sécurité transfusionnelle.
+* Savoir appliquer la procédure transfusionnelle pas à pas selon les recommandations.
+* Être capable de lire et d’interpréter une carte de contrôle ultime (CUP).
+* Être capable de conclure une décision transfusionnelle juste
+* Connaître les conduites à tenir en cas d’effets indésirables receveurs (EIR).
+* Garantir une traçabilité complète et rigoureuse.
+ 1. Avant la transfusion : préparation et vérifications
+* Rôle de l’infirmier dans la vérification de l’information et du consentement du patient.
+* Nécessité d’une voie veineuse fonctionnelle avant réception du CGR.
+* Verifier :
+o La présence d’un médecin en cas d’urgence.
+o La disponibilité du chariot d’urgence.
+o La prescription complète : produit, débit, durée, conditions spécifiques.
+* Réaliser les constantes vitales à T0 : TA, pouls, température, SpO?.
+ 2. Vérification documentaire : identitovigilance et concordance
+* Lecture croisée des documents : prescription, groupe sanguin, RAI, fiche de délivrance, étiquetage du CGR.
+* Vérification de l’intégrité et péremption du produit.
+* Règles de validité de la RAI (72h max ou 21 jours selon contexte).
+* Contrôle des codes-barres et de l’identité du patient.
+ 3. Contrôle ultime au lit du patient (CUP)
+* Carte CUP, solution WS, sang patient, CGR, gants.
+* Utilisation correcte des puits et dépôts.
+* Coche de la case « contrôle dépôt de sang » et couverture complète des réactifs.
+* Lecture immédiate et remplissage de l’étiquette.
+4. Interprétation de la carte CUP
+* Signification des agglutinations et du point rouge pour les AB TEST CARD
+* Déduction du groupe du patient et du CGR.
+* Conclusion sur la compatibilité :
+o ISO-groupe compatible
+o Non iso-groupe compatible
+o Incompatible (transfusion interdite)
+ 5. Réalisation de la transfusion et surveillance
+* Perfuseur à filtre et calcul du débit.
+* Présence continue 15 premières minutes.
+* Relevés des paramètres vitaux T0, T5, T10, T15 puis toutes les 30 minutes.
+* Information du patient.
+ 6. Traçabilité et suivi
+* Fiche de délivrance complète, lisible, signée.
+* Dossier transfusionnel complet.
+* Déclaration d’un EIR :
+o Conduite immédiate
+o Conservation du produit
+o Formulaire rempli
+
